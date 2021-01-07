@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch C",
+            "request": "launch",
+            "mainClass": "passingobjectthroughclass.C",
+            "projectName": "java_437e1e2d"
+        },
+        {
+            "type": "java",
+            "name": "Launch B",
+            "request": "launch",
+            "mainClass": "polymorphism.B",
+            "projectName": "java_437e1e2d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "construsinginher.Hello",
+            "projectName": "java_437e1e2d"
+        },
+        {
+            "type": "java",
+            "name": "Launch og",
+            "request": "launch",
+            "mainClass": "inheritance.og",
+            "projectName": "java_437e1e2d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "This.Hello",
+            "projectName": "java_437e1e2d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Constructor.Hello",
+            "projectName": "java_437e1e2d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "staticcalling.Hello",
+            "projectName": "java_437e1e2d"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticSample",
+            "request": "launch",
+            "mainClass": "StaticSample",
+            "projectName": "java_437e1e2d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "java_437e1e2d"
+        },
+        {
+            "type": "java",
+            "name": "Launch a",
+            "request": "launch",
+            "mainClass": "a",
+            "projectName": "java_437e1e2d"
+        },
+        {
+            "type": "java",
             "name": "Launch array",
             "request": "launch",
             "mainClass": "array",
