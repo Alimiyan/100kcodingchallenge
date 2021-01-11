@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "java_437e1e2d"
+        },
+        {
+            "type": "java",
+            "name": "Launch first",
+            "request": "launch",
+            "mainClass": "first",
+            "projectName": "java_437e1e2d"
+        },
+        {
+            "type": "java",
+            "name": "Launch threadcall",
+            "request": "launch",
+            "mainClass": "threadcall",
+            "projectName": "java_437e1e2d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sampleint",
+            "request": "launch",
+            "mainClass": "Sampleint",
+            "projectName": "java_437e1e2d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample",
+            "request": "launch",
+            "mainClass": "abstraction.Sample",
+            "projectName": "java_437e1e2d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample",
+            "request": "launch",
+            "mainClass": "Sample",
+            "projectName": "java_437e1e2d"
+        },
+        {
+            "type": "java",
             "name": "Launch C",
             "request": "launch",
             "mainClass": "passingobjectthroughclass.C",
